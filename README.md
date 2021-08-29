@@ -13,9 +13,9 @@ training.csv and Test.csv are the datasets used to train and test the machine le
 
 ## Installation
 
-You can rou the project using Docker containers.
+You can run the project using Docker containers.
 
-There are Dockerfiles inside the container folder.
+There a Dockerfile inside the container folder.
 
 There are example commands inside notebooks\_container\_start.sh.sample that shows how to run the container.
 
